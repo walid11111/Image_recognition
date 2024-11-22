@@ -1,7 +1,7 @@
-Image Recognition Project
+Image Recognition Project:
 This project demonstrates an implementation of an Image Recognition system using Python and machine learning. The goal is to preprocess image data, train a recognition model, and evaluate its performance.
 
-Table of Contents
+Table of Contents:
 Introduction
 Features
 Prerequisites
@@ -10,15 +10,17 @@ Usage
 Results
 Contributing
 License
-Introduction
+
+Introduction:
 The Image Recognition project utilizes deep learning techniques to classify images into predefined categories. This implementation is written in a Jupyter Notebook, making it interactive and beginner-friendly.
 
-Features
+Features:
 Preprocessing images (e.g., resizing, normalization, and augmentation).
 Training a custom machine learning model.
 Evaluating the model's accuracy and visualizing results.
 Generating predictions on unseen data.
-Prerequisites
+
+Prerequisites:
 Ensure you have the following installed:
 
 Python 3.7 or later
